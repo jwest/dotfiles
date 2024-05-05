@@ -1,16 +1,17 @@
 sort=-time
 layer=overlay
-background-color=#2e3440
-width=300
+background-color=#2e3440cc
+width=400
 height=110
-border-size=2
-border-color=#88c0d0
+border-size=3
+border-color=#88c0d0cc
 border-radius=15
 icons=0
 max-icon-size=64
 default-timeout=5000
 ignore-timeout=1
 font=Source Code Pro 14
+padding=16
 
 [urgency=low]
 border-color=#cccccc
